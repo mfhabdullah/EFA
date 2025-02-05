@@ -1,0 +1,66 @@
+/* medium turquoise
+lightblue */
+
+
+
+
+
+.container {
+    max-width: 1950px;
+position: relative;!important
+}
+.main{
+    width: 100%;
+    height: 500px;
+    background-color: aliceblue;
+}
+.que{
+    font-family: cursive;
+    font-size: 52px;
+    color: darkblue;
+    margin: 74px 0px 0px 34px;
+}
+.jk{
+    font-family: cursive;
+    font-size: 220px;
+    color: darkcyan;
+    margin: 0px;
+}
+.kj{
+ width: 20%;
+ height: 380px;
+ margin: 45px 0px 0px 256px;   
+ position: absolute;
+top: 0;
+right: 0;
+}
+.jkk{
+    width: 333px;
+    margin: 0px;
+}
+.kkj{
+    width: 100%;
+    height: 150px;
+    background-color:lightblue ;
+}
+.uio{
+    width: 19%;
+    height: 149px;
+    display: inline-flex;
+    font-size: 110px;
+    margin: 12px 0px 0px 34px;   
+}
+.uio:hover{
+    transform: scale(1.1);
+    color: rgb(0, 229, 255);
+    transition: 0.4s;
+}
+.emg{
+    width: 85%;
+    height: 35%;
+    margin: 20px 0px 0px 30px;
+}
+.gm {
+    width: 110%;
+    margin: 0px 0px 0px 98px;
+}
